@@ -1,4 +1,6 @@
-# kingBack
+# Personal Web
+个人网页，包含随心所欲的特效🎉
+技术栈：Vue3➕TS➕Sass
 
 This template should help get you started developing with Vue 3 in Vite.
 
